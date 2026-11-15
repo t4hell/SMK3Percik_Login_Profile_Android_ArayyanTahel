@@ -1,0 +1,3 @@
+1. Halaman Login (01 - Login) merupakan tampilan antarmuka awal pada aplikasi mobile yang berfungsi sebagai gerbang utama bagi pengguna untuk masuk ke dalam sistem. Desain ini menggunakan tata letak yang sederhana dan fokus pada fungsi utama, dipadukan dengan latar belakang gradasi warna biru, merah muda, dan jingga agar tampilan terlihat lebih modern serta tidak membosankan.
+
+   Dibuat dengan: Canva, ibisPaintX
